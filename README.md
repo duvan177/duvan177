@@ -29,6 +29,6 @@
 
 
 <br><br>
-<a href="https://github.com/ankitwarbhe">
+<a href="https://github.com/duvan177">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duvan177&theme=dark">
 </a>
